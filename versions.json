@@ -1,7 +1,7 @@
 {
-  "description": "Latest version sofr RFTS applications",
+  "description": "Latest versions for RFTS applications",
   "applications": {
     "updater_test": "A.00.00",
-	"omnia":"A.03.21"
+	"omnia":"A.03.22"
   }
 }
