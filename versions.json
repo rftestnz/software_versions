@@ -2,6 +2,7 @@
   "description": "Latest versions for RFTS applications",
   "applications": {
     "updater_test": "A.00.00",
-	"omnia":"A.03.22"
+	"omnia": "A.03.22"
+	"oscilloscope": "A.02.06"
   }
 }
