@@ -11,6 +11,7 @@
 	"r8000": "A.01.13",
 	"thermocouples": "A.01.09",
 	"current_probes": "A.00.01",
-	"yokogawa_wt": "A.01.04"
+	"yokogawa_wt": "A.01.04",
+	"template_finder": "A.00.24"
   }
 }
