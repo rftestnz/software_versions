@@ -2,7 +2,7 @@
   "description": "Latest versions for RFTS applications",
   "applications": {
     "updater_test": "A.00.00",
-	"omnia": "A.03.25",
+	"omnia": "A.03.26",
 	"oscilloscope": "A.02.15",
 	"cma180": "A.00.00",
 	"psu_test": "A.00.42",
